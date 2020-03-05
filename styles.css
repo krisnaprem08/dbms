@@ -1,0 +1,32 @@
+h1 {background-color: #666;
+   padding: 30px;
+   text-align: center;
+   font-size: 35px;
+   color:white;}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #666;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 215px;
+  text-decoration: none;
+  font-size:150%;
+}
+
+li a:hover {
+  background-color: #111;
+}
+p {font-size: 200%;}
+h3 {font-size: 150%;}
+p2 {font-size: 150%;}
